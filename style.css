@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(0, 0, 0, 0.905);
+    min-height: 100vh;
+}
+
+
+
+.subtitle {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
